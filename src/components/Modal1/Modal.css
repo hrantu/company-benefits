@@ -1,0 +1,34 @@
+.txt{
+    color: orangered;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, Blue, Skyblue);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white; 
+    font-weight: bold;
+}
+
+.button2{
+    text-decoration: none;
+    background-image: White;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: blue;
+    font-weight: bold;
+}
+.txt2{
+    color: orangered;
+    margin: 20px;
+    text-decoration: underline;
+}
+.mod1{
+    margin-top: 20px;
+    position: relative;
+    left: 330px;
+}
+.btn3{
+    position: relative;
+    left: 800px;
+}

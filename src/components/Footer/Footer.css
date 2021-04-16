@@ -1,0 +1,18 @@
+.footer{
+    background-color: rgb(29, 29, 155);
+    height: 120px;
+    /* border-radius: 10px; */
+    border-top-right-radius:30px;
+    border-top-left-radius: 30px;
+}
+.text{
+    color:white;
+}
+.dot{
+    margin-top:50px;
+}
+.dot1{
+    margin: 50px 0;
+    position: relative;
+    right:-3%;
+}
